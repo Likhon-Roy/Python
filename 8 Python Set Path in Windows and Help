@@ -1,0 +1,17 @@
+Code
+
+(base) PS C:\Users\Likhon Roy> python
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 2 + 3
+5
+>>> print("Hello World")
+Hello World
+>>>
+
+Python Shell :-
+>>> help()
+help> topics
+help> LISTS
+help> quit
+>>> help('LISTS')

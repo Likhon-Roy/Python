@@ -1,0 +1,60 @@
+Code
+
+(base) PS C:\Users\Likhon Roy> python
+Python 3.8.5 (default, Sep  3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
+Type "help", "copyright", "credits" or "license" for more information.
+
+>>> 2 + 3
+5
+>>> 9 - 8
+1
+>>> 4 * 6
+24
+>>> 8 / 4
+2.0
+>>> 5 / 2
+2.5
+>>> 5 // 2
+2
+>>> 8 + 9 - 10
+7
+>>> 8 + 9 -
+SyntaxError: invalid syntax
+>>> 8 + 2 * 3
+14
+>>> (8 + 2) * 3
+30
+>>> 2 * 2 * 2
+8
+>>> 2 ** 3
+8
+>>> 10 // 3
+3
+>>> 10 % 3
+1
+>>> 'likhon'
+'likhon'
+>>> print('likhon')
+likhon
+>>> print('likhon's laptop')
+      
+SyntaxError: invalid syntax
+>>> print("likhon's laptop")
+likhon's laptop
+>>> print('likhon "laptop"')
+likhon "laptop"
+>>> print('likhon's "laptop"')
+      
+SyntaxError: invalid syntax
+>>> print('likhon\'s "laptop"')
+likhon's "laptop"
+>>> 'likhon' + 'likhon'
+'likhonlikhon'
+>>> 10 * 'likhon'
+'likhonlikhonlikhonlikhonlikhonlikhonlikhonlikhonlikhonlikhon'
+>>> print('c:\docs\likhon')
+c:\docs
+avin
+>>> print(r'c:\docs\likhon')
+c:\docs\likhon
+
